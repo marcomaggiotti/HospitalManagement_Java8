@@ -1,0 +1,13 @@
+/data/home/mmaggi/Lab/Java/akka-java8-examples/src/main/java/com/opencredo/examples/akkajava/Coffee.java
+/data/home/mmaggi/Lab/Java/akka-java8-examples/src/main/java/com/opencredo/examples/akkajava/simple/Barista.java
+/data/home/mmaggi/Lab/Java/akka-java8-examples/src/main/java/com/opencredo/examples/akkajava/simple/SimpleBarMain.java
+/data/home/mmaggi/Lab/Java/akka-java8-examples/src/main/java/com/opencredo/examples/akkajava/become/PatientCustomer.java
+/data/home/mmaggi/Lab/Java/akka-java8-examples/src/main/java/com/opencredo/examples/akkajava/future/SlowCoffeeMachine.java
+/data/home/mmaggi/Lab/Java/akka-java8-examples/src/main/java/com/opencredo/examples/akkajava/future/NonBlockingBarista.java
+/data/home/mmaggi/Lab/Java/akka-java8-examples/src/main/java/com/opencredo/examples/akkajava/Customer.java
+/data/home/mmaggi/Lab/Java/akka-java8-examples/src/main/java/com/opencredo/examples/akkajava/become/SlowBarMain.java
+/data/home/mmaggi/Lab/Java/akka-java8-examples/src/main/java/com/opencredo/examples/akkajava/future/NonBlockingBarMain.java
+/data/home/mmaggi/Lab/Java/akka-java8-examples/src/main/java/com/opencredo/examples/akkajava/Order.java
+/data/home/mmaggi/Lab/Java/akka-java8-examples/src/main/java/com/opencredo/examples/akkajava/simple/OldBarista.java
+/data/home/mmaggi/Lab/Java/akka-java8-examples/src/main/java/com/opencredo/examples/akkajava/simple/CoffeeMachine.java
+/data/home/mmaggi/Lab/Java/akka-java8-examples/src/main/java/com/opencredo/examples/akkajava/become/DiligentBarista.java
